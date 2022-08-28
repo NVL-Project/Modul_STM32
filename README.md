@@ -1,2 +1,2 @@
 # Modul_STM32
-Perancangan modul minsys STM32F4 pada software Proteus dan dilakukan simulasi dengan program yang telah dibuat menggunaan STM32CubeIDE
+Minsys STM32F4 module design on Proteus software and simulated with a program that has been created using STM32CubeIDE
